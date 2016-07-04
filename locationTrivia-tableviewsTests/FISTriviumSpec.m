@@ -4,7 +4,7 @@
 #import "FISTrivium.h"
 #define EXP_SHORTHAND
 #import <Expecta.h>
-
+#import "FISLocation.h"
 
 SpecBegin(FISTrivium)
 
